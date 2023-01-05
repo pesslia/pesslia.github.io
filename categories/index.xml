@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on PAFF的个人主页</title>
+    <link>https://example.org/categories/</link>
+    <description>Recent content in Categories on PAFF的个人主页</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sat, 15 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://example.org/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>PAFF songs</title>
+      <link>https://example.org/categories/paff-songs/</link>
+      <pubDate>Sat, 15 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/categories/paff-songs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>动态</title>
+      <link>https://example.org/categories/%E5%8A%A8%E6%80%81/</link>
+      <pubDate>Wed, 20 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/categories/%E5%8A%A8%E6%80%81/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>活动</title>
+      <link>https://example.org/categories/%E6%B4%BB%E5%8A%A8/</link>
+      <pubDate>Sun, 17 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/categories/%E6%B4%BB%E5%8A%A8/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

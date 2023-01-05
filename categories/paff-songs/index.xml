@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PAFF songs on PAFF的个人主页</title>
+    <link>https://example.org/categories/paff-songs/</link>
+    <description>Recent content in PAFF songs on PAFF的个人主页</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sat, 15 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://example.org/categories/paff-songs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>冬季新曲发表！</title>
+      <link>https://example.org/2022/10/%E5%86%AC%E5%AD%A3%E6%96%B0%E6%9B%B2%E5%8F%91%E8%A1%A8/</link>
+      <pubDate>Sat, 15 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/2022/10/%E5%86%AC%E5%AD%A3%E6%96%B0%E6%9B%B2%E5%8F%91%E8%A1%A8/</guid>
+      <description>&lt;p&gt;人气偶像PAFF将会于明日起陆续公布今年冬季的6首新曲！&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>新曲试听</title>
+      <link>https://example.org/2022/03/%E6%96%B0%E6%9B%B2%E8%AF%95%E5%90%AC/</link>
+      <pubDate>Wed, 16 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/2022/03/%E6%96%B0%E6%9B%B2%E8%AF%95%E5%90%AC/</guid>
+      <description>&lt;p&gt;PAFF新单曲《Baptism of fire》即将发售&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

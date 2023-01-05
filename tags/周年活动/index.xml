@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>周年活动 on PAFF的个人主页</title>
+    <link>https://example.org/tags/%E5%91%A8%E5%B9%B4%E6%B4%BB%E5%8A%A8/</link>
+    <description>Recent content in 周年活动 on PAFF的个人主页</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Wed, 20 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://example.org/tags/%E5%91%A8%E5%B9%B4%E6%B4%BB%E5%8A%A8/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>周年庆彩排片段放出！</title>
+      <link>https://example.org/2022/07/%E5%91%A8%E5%B9%B4%E5%BA%86%E5%BD%A9%E6%8E%92%E7%89%87%E6%AE%B5%E6%94%BE%E5%87%BA/</link>
+      <pubDate>Wed, 20 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/2022/07/%E5%91%A8%E5%B9%B4%E5%BA%86%E5%BD%A9%E6%8E%92%E7%89%87%E6%AE%B5%E6%94%BE%E5%87%BA/</guid>
+      <description>&lt;p&gt;小泡芙们期待的周年活动彩排进行中！&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>周年PAFFCON！</title>
+      <link>https://example.org/2022/07/%E5%91%A8%E5%B9%B4paffcon/</link>
+      <pubDate>Sun, 17 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/2022/07/%E5%91%A8%E5%B9%B4paffcon/</guid>
+      <description>&lt;p&gt;7th PAFFCON，即将启程！&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

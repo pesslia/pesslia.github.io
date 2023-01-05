@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>活动 on PAFF的个人主页</title>
+    <link>https://example.org/tags/%E6%B4%BB%E5%8A%A8/</link>
+    <description>Recent content in 活动 on PAFF的个人主页</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sun, 17 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://example.org/tags/%E6%B4%BB%E5%8A%A8/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>周年PAFFCON！</title>
+      <link>https://example.org/2022/07/%E5%91%A8%E5%B9%B4paffcon/</link>
+      <pubDate>Sun, 17 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/2022/07/%E5%91%A8%E5%B9%B4paffcon/</guid>
+      <description>&lt;p&gt;7th PAFFCON，即将启程！&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

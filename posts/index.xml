@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on PAFF的个人主页</title>
+    <link>https://example.org/posts/</link>
+    <description>Recent content in Posts on PAFF的个人主页</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sat, 15 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>冬季新曲发表！</title>
+      <link>https://example.org/2022/10/%E5%86%AC%E5%AD%A3%E6%96%B0%E6%9B%B2%E5%8F%91%E8%A1%A8/</link>
+      <pubDate>Sat, 15 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/2022/10/%E5%86%AC%E5%AD%A3%E6%96%B0%E6%9B%B2%E5%8F%91%E8%A1%A8/</guid>
+      <description>&lt;p&gt;人气偶像PAFF将会于明日起陆续公布今年冬季的6首新曲！&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>周年庆彩排片段放出！</title>
+      <link>https://example.org/2022/07/%E5%91%A8%E5%B9%B4%E5%BA%86%E5%BD%A9%E6%8E%92%E7%89%87%E6%AE%B5%E6%94%BE%E5%87%BA/</link>
+      <pubDate>Wed, 20 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/2022/07/%E5%91%A8%E5%B9%B4%E5%BA%86%E5%BD%A9%E6%8E%92%E7%89%87%E6%AE%B5%E6%94%BE%E5%87%BA/</guid>
+      <description>&lt;p&gt;小泡芙们期待的周年活动彩排进行中！&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>周年PAFFCON！</title>
+      <link>https://example.org/2022/07/%E5%91%A8%E5%B9%B4paffcon/</link>
+      <pubDate>Sun, 17 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/2022/07/%E5%91%A8%E5%B9%B4paffcon/</guid>
+      <description>&lt;p&gt;7th PAFFCON，即将启程！&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>新曲试听</title>
+      <link>https://example.org/2022/03/%E6%96%B0%E6%9B%B2%E8%AF%95%E5%90%AC/</link>
+      <pubDate>Wed, 16 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/2022/03/%E6%96%B0%E6%9B%B2%E8%AF%95%E5%90%AC/</guid>
+      <description>&lt;p&gt;PAFF新单曲《Baptism of fire》即将发售&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>感谢支持！</title>
+      <link>https://example.org/2022/01/who-is-using-tranquilpeak-hugo-theme/</link>
+      <pubDate>Sun, 02 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/2022/01/who-is-using-tranquilpeak-hugo-theme/</guid>
+      <description>&lt;p&gt;感谢各位小泡芙们一直以来对PAFF的支持！&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
